@@ -41,5 +41,6 @@
 
 ## 📫 × CONTACT
 - 🌐 » Portfolio: [tenzaspany.github.io](https://tenzaspany.github.io)
+- 📩 » E-mail: **tenzaspany@proton.me**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" alt="Footer" />
