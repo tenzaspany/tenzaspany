@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nadian 👋</h1>
 
-<!--
-**tenzaspany/tenzaspany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Full Stack Developer</b> from Poland 🇵🇱<br>
+  I build modern websites, Minecraft plugins and Discord bots.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://tenzaspany.github.io">🌐 Portfolio</a> ·
+  <a href="https://github.com/tenzaspany">GitHub</a> ·
+  Discord: <b>tenzaspany</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About me
+- 💻 Programming since I was 13
+- 🌐 Mainly websites, custom Minecraft plugins and Discord bots
+- 📚 Always learning new technologies
+
+## 🛠️ Tech stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,java,py,mysql,tailwind,git" alt="Tech stack" />
+</p>
+
+## 📌 Featured project
+- **[nicolebosiacka.pl](https://nicolebosiacka.pl)**: portfolio website for a makeup artist and stylist, with an admin panel for managing the gallery.
+
+## 📫 Contact
+- Discord: **tenzaspany**
+- Portfolio: [tenzaspany.github.io](https://tenzaspany.github.io)
